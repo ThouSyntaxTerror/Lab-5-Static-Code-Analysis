@@ -1,0 +1,9 @@
+Warning: meter reading went backwards
+M1 used 150 units, bill Rs. 708.75
+M2 used 420 units, bill Rs. 2661.75
+M3 used 0 units, bill Rs. 78.75
+M4 used 50 units, bill Rs. 288.75
+Highest bill: M2
+Average bill: 934.5
+Total billed: 3738.0
+Saved 4 bills to bills.json
